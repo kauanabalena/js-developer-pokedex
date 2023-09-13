@@ -3,7 +3,7 @@
 
 Projeto realizado durante o Santander Bootcamp 2023 - Fullstack Java+Angular. 
 
-Esse projeto consiste na criação de uma Pokedex online, com informações dos Pokémons, seus nomes, imagens e características.
+Esse projeto consiste na criação de uma Pokédex online, com informações dos Pokémons, seus nomes, imagens e características.
 
 ### Tecnologias utilizadas:
 
